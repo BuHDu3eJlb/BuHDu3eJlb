@@ -2,7 +2,7 @@
 
 ## I'm Beginner Manual Tester.
 ### I have no limits, Try It!
- 🤝 Социальные сети:
+ 🤝 Social Media:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
@@ -15,7 +15,7 @@
 
 
 ## Tools and Skills I have:
-📁 Тестовая документация:
+📁 Test documentation:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://images.seeklogo.com/logo-png/33/1/confluence-logo-png_seeklogo-338595.png?v=1957363170977474520" title="azure-devops" alt="onfluence" width="40" height="40"/>&nbsp
@@ -25,7 +25,7 @@
 
   ---
 
-  🛠 Тестирование веб-приложений:
+  🛠 Web Application Testing:
   
   <div>
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
@@ -35,7 +35,7 @@
 </div>
 
 ---
-📱 Снифферы:
+📱 Sniffers:
 <div>
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
@@ -44,7 +44,7 @@
 </div>
 
 ---
-💾 Работа с базами данных:
+💾 Data Bases:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
  
@@ -52,7 +52,7 @@
 
 ---
 
-✏️ Работа с кодом:
+✏️ Work with Code:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
