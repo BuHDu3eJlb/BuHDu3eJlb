@@ -1,12 +1,19 @@
 ![Header](https://github.com/BuHDu3eJlb/BuHDu3eJlb/blob/main/assets/%D0%BF%D1%80%D0%BE%D0%B1%D0%B0.jpg)
 
 ## Beginner Manual Tester. I have no limits, Try It!
+ 🤝 Социальные сети:
 
-Latest YouTube Videos
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/Kirill_in_IT" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+  </div>
 
 
-## Tools and Skills I have
-
+## Tools and Skills I have:
 📁 Тестовая документация:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -53,4 +60,5 @@ Latest YouTube Videos
   
 </div>
 
- Follow me
+---
+
