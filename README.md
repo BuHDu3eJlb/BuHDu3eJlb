@@ -18,7 +18,7 @@
 📁 Test documentation:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://images.seeklogo.com/logo-png/33/1/confluence-logo-png_seeklogo-338595.png?v=1957363170977474520" title="azure-devops" alt="onfluence" width="40" height="40"/>&nbsp
+  <img src="https://images.seeklogo.com/logo-png/33/1/confluence-logo-png_seeklogo-338595.png?v=1957363170977474520" title="confluence" alt="onfluence" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/A/azure-devops-logo-E7364216A7-seeklogo.com.png" title="azure-devops" alt="jira" width="40" height="40"/>&nbsp
 
   </div>
