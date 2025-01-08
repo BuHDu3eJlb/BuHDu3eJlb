@@ -1,4 +1,4 @@
-![Header](https://github.com/BuHDu3eJlb/BuHDu3eJlb/blob/main/assets/git%20less.jpg)
+![Header](https://github.com/BuHDu3eJlb/BuHDu3eJlb/blob/main/assets/small%20img.jpg)
 
 ## I'm Beginner Manual Tester.
 ### I have no limits, Try It!
